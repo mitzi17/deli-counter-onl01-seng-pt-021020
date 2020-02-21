@@ -16,4 +16,9 @@ def line(deli)
   end
 end
 
+def take_a_number(arr, name)
+  puts "Welcome, #{name}. You are number #{arr[i} in line."
+end
+
+
   
